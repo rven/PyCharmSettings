@@ -1,0 +1,67 @@
+<templateSet group="Odoo">
+  <template name="create" value="@api.model&#10;def create(self, values):&#10;    return super(CLASS, self).create(values)&#10;" description="Inherit Odoo create method" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="inherit_id" value="&lt;field name=&quot;inherit_id&quot; ref=&quot;&quot;/&gt;" description="Inherit Odoo tag" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="attrs_invisible" value="attrs=&quot;{'invisible': [('', '', '')]}&quot;" description="Add attribute attrs 'invisible'" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="attrs_required" value="attrs=&quot;{'required': [('', '', '')]}&quot;" description="Add attribute attrs 'required'" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="pd" value="# BREAKPOINT: Remove breakpoint before COMMIT!!!!&#10;import pdb;pdb.set_trace()" description="Add python debugger breakpoint" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="write" value="@api.one&#10;def write(self, values):&#10;    return super(CLASS, self).write(values)" description="Inherit Odoo write method" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="data" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;&#10;&lt;openerp&gt;&#10;    &lt;data noupdate=&quot;1&quot;&gt;&#10;        &lt;record id=&quot;&quot; model=&quot;&quot;&gt;&#10;            &lt;field name=&quot;&quot;&gt;&lt;/field&gt;&#10;        &lt;/record&gt;&#10;    &lt;/data&gt;&#10;&lt;/openerp&gt;&#10;" description="Data definition" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="form_tree" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;&#10;&lt;openerp&gt;&#10;    &lt;data&gt;&#10;        &lt;!-- Tree --&gt;&#10;        &lt;record id=&quot;view_&lt;model&gt;_tree&quot; model=&quot;ir.ui.view&quot;&gt;&#10;            &lt;field name=&quot;name&quot;&gt;&lt;ir.model&gt;.tree&lt;/field&gt;&#10;            &lt;field name=&quot;model&quot;&gt;&lt;ir.model&gt;&lt;/field&gt;&#10;            &lt;field name=&quot;arch&quot; type=&quot;xml&quot;&gt;&#10;                &lt;tree string=&quot;&lt;Names&gt;&quot;&gt;&#10;                    &lt;field name=&quot;name&quot; /&gt;&#10;                &lt;/tree&gt;&#10;            &lt;/field&gt;&#10;        &lt;/record&gt;&#10;        &lt;!-- Form --&gt;&#10;        &lt;record id=&quot;view_&lt;model&gt;_form&quot; model=&quot;ir.ui.view&quot;&gt;&#10;            &lt;field name=&quot;name&quot;&gt;&lt;ir.model&gt;.form&lt;/field&gt;&#10;            &lt;field name=&quot;model&quot;&gt;&lt;ir.model&gt;&lt;/field&gt;&#10;            &lt;field name=&quot;arch&quot; type=&quot;xml&quot;&gt;&#10;                &lt;form string=&quot;&lt;Name&gt;&quot;&gt;&#10;                    &lt;group&gt;&#10;                        &lt;field name=&quot;name&quot; /&gt;&#10;                    &lt;/group&gt;&#10;                &lt;/form&gt;&#10;            &lt;/field&gt;&#10;        &lt;/record&gt;&#10;        &lt;!-- Search --&gt;&#10;        &lt;record id=&quot;view_&lt;model&gt;_search&quot; model=&quot;ir.ui.view&quot;&gt;&#10;            &lt;field name=&quot;name&quot;&gt;&lt;ir.model&gt;.search&lt;/field&gt;&#10;            &lt;field name=&quot;model&quot;&gt;&lt;ir.model&gt;&lt;/field&gt;&#10;            &lt;field name=&quot;arch&quot; type=&quot;xml&quot;&gt;&#10;                &lt;search string=&quot;&lt;Names&gt;&quot;&gt;&#10;                    &lt;field name=&quot;name&quot; /&gt;&#10;                &lt;/search&gt;&#10;            &lt;/field&gt;&#10;        &lt;/record&gt;&#10;        &lt;!-- Action --&gt;&#10;        &lt;record model=&quot;ir.actions.act_window&quot; id=&quot;action_&lt;model&gt;&quot;&gt;&#10;            &lt;field name=&quot;name&quot;&gt;&lt;Names&gt;&lt;/field&gt;&#10;            &lt;field name=&quot;res_model&quot;&gt;&lt;ir.model&gt;&lt;/field&gt;&#10;            &lt;field name=&quot;view_id&quot; ref=&quot;view_&lt;model&gt;_tree&quot; /&gt;&#10;            &lt;field name=&quot;search_view_id&quot; ref=&quot;view_&lt;model&gt;_search&quot; /&gt;&#10;        &lt;/record&gt;&#10;    &lt;/data&gt;&#10;&lt;/openerp&gt;" description="Form, Tree, Search, Action" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="empty_xml" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;&#10;&lt;openerp&gt;&#10;    &lt;data&gt;&#10;    &lt;/data&gt;&#10;&lt;/openerp&gt;" description="Empty XML file" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="system_option" value="&lt;field name=&quot;xx_system_option&quot; eval=&quot;True&quot;/&gt;" description="Add field system option" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="sys_option" value="_inherit = 'xx.system.option'" description="Inherit System Option" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="invisible" value="invisible=&quot;1&quot;" description="Add invisible=&quot;1&quot; attribute" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="no_create" value="options=&quot;{'no_create': True}&quot;" description="Add option no_create" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+</templateSet>

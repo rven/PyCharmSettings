@@ -1,0 +1,41 @@
+<application>
+  <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="FILE_MASK" value="*.py,*.xml" />
+    <recentFileMasks>
+      <mask>*.as</mask>
+      <mask>*.mxml</mask>
+      <mask>*.jrxml</mask>
+      <mask>*.py,*.xml,*.csv,*.mako</mask>
+      <mask>*.xml,*.css</mask>
+      <mask>*.ttf</mask>
+      <mask>*.jsd</mask>
+      <mask>*.js,*.css</mask>
+      <mask>*.po</mask>
+      <mask>nl_BE.po</mask>
+      <mask>__openerp__.py</mask>
+      <mask>*.?css</mask>
+      <mask>*.py,*.xml,*.csv</mask>
+      <mask>*.css</mask>
+      <mask>*.cfg</mask>
+      <mask>*.py,*.xml, *.js</mask>
+      <mask>nl.po</mask>
+      <mask>*.py,*.xml,*.csv,*.js</mask>
+      <mask>nl*.po</mask>
+      <mask>calendar.py</mask>
+      <mask>*.</mask>
+      <mask>*.py,*.xml,*.js</mask>
+      <mask>*.csv</mask>
+      <mask>*</mask>
+      <mask>*.py</mask>
+      <mask>*.xml</mask>
+      <mask>*.xml,*.js,*.css</mask>
+      <mask>*.py, *.xml</mask>
+      <mask>*.js</mask>
+      <mask>*.py,*.xml</mask>
+    </recentFileMasks>
+  </component>
+</application>
