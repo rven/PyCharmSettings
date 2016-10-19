@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="wholeWordsOnly" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="FILE_MASK" value="*.py,*.xml" />
     <recentFileMasks>
       <mask>*.as</mask>
       <mask>*.mxml</mask>
@@ -34,8 +34,8 @@
       <mask>*.xml,*.js,*.css</mask>
       <mask>*.py, *.xml</mask>
       <mask>*.js</mask>
-      <mask>*.py,*.xml</mask>
       <mask>*.py</mask>
+      <mask>*.py,*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
