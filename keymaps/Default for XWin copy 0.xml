@@ -2,4 +2,7 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt x" />
   </action>
+  <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
 </keymap>
