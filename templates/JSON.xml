@@ -1,0 +1,17 @@
+<templateSet group="JSON">
+  <template name="newo" value="{&#10;    &quot;model&quot;: &quot;x.x&quot;,&#10;    &quot;json_ref&quot;: &quot;test_x&quot;,&#10;    &quot;actions&quot;:[&#10;        {&#10;            &quot;action&quot;: &quot;act_1&quot;&#10;        }&#10;    ]&#10;}" description="New Test Object" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JSON" value="true" />
+    </context>
+  </template>
+  <template name="enterd" value="{&#10;    &quot;action&quot;: &quot;enter_data&quot;,&#10;    &quot;fields&quot;: [&#10;        {&#10;            &quot;name&quot;: &quot;Test Partner 1&quot;&#10;        }&#10;    ]&#10;}" description="Enter Data Action" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JSON" value="true" />
+    </context>
+  </template>
+  <template name="saved" value="{&#10;    &quot;action&quot;: &quot;save_data&quot;&#10;}" description="Save Data Action" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JSON" value="true" />
+    </context>
+  </template>
+</templateSet>
