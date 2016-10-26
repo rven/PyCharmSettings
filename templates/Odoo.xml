@@ -1,5 +1,5 @@
 <templateSet group="Odoo">
-  <template name="create" value="@api.model&#10;def create(self, values):&#10;    object = super(CLASS, self).create(values)&#10;    return object&#10;" description="Inherit Odoo create method" toReformat="false" toShortenFQNames="true">
+  <template name="create" value="@api.model&#10;def create(self, values):&#10;    record = super(CLASS, self).create(values)&#10;    return record&#10;" description="Inherit Odoo create method" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="Python" value="true" />
     </context>
