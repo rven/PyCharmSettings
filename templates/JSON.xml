@@ -1,0 +1,5 @@
+<templateSet group="JSON">
+  <template name="d" value="d" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+</templateSet>
