@@ -1,5 +1,5 @@
 <templateSet group="Odoo">
-  <template name="create" value="@api.model&#10;def create(self, values):&#10;    return super(CLASS, self).create(values)&#10;" description="Inherit Odoo create method" toReformat="false" toShortenFQNames="true">
+  <template name="create" value="@api.model&#10;def create(self, values):&#10;    object = super(CLASS, self).create(values)&#10;    return object&#10;" description="Inherit Odoo create method" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="Python" value="true" />
     </context>
@@ -17,16 +17,6 @@
   <template name="attrs_required" value="attrs=&quot;{'required': [('', '', '')]}&quot;" description="Add attribute attrs 'required'" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="XML" value="true" />
-    </context>
-  </template>
-  <template name="pd" value="# BREAKPOINT: Remove breakpoint before COMMIT!!!!&#10;import pdb;pdb.set_trace()" description="Add python debugger breakpoint" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="Python" value="true" />
-    </context>
-  </template>
-  <template name="write" value="@api.one&#10;def write(self, values):&#10;    return super(CLASS, self).write(values)" description="Inherit Odoo write method" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="Python" value="true" />
     </context>
   </template>
   <template name="data" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;&#10;&lt;openerp&gt;&#10;    &lt;data noupdate=&quot;1&quot;&gt;&#10;        &lt;record id=&quot;&quot; model=&quot;&quot;&gt;&#10;            &lt;field name=&quot;&quot;&gt;&lt;/field&gt;&#10;        &lt;/record&gt;&#10;    &lt;/data&gt;&#10;&lt;/openerp&gt;&#10;" description="Data definition" toReformat="false" toShortenFQNames="true">
@@ -70,6 +60,16 @@
     </context>
   </template>
   <template name="company_partner_id" value="self.env.user.company_id.partner_id" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="write" value="@api.multi&#10;def write(self, values):&#10;    result = super(CLASS, self).write(values)&#10;    return result" description="Inherit Odoo write method" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="unlink" value="@api.multi&#10;def unlink(self):&#10;    return super(CLASS, self).unlink()&#10;" description="Inherit Odoo create method" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="Python" value="true" />
     </context>
