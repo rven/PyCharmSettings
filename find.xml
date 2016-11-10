@@ -4,7 +4,7 @@
     <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*.py,*.xml" />
     <recentFileMasks>
       <mask>*.as</mask>
       <mask>*.mxml</mask>
@@ -34,8 +34,8 @@
       <mask>*.py, *.xml</mask>
       <mask>*.js</mask>
       <mask>*.py</mask>
-      <mask>*.py,*.xml</mask>
       <mask>*.xml</mask>
+      <mask>*.py,*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
