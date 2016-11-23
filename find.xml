@@ -31,10 +31,10 @@
       <mask>*.csv</mask>
       <mask>*</mask>
       <mask>*.xml,*.js,*.css</mask>
-      <mask>*.js</mask>
       <mask>*.py</mask>
       <mask>*.xml</mask>
       <mask>*.py,*.xml</mask>
+      <mask>*.js</mask>
       <mask>*.py, *.xml</mask>
     </recentFileMasks>
   </component>
