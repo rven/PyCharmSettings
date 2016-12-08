@@ -2,7 +2,7 @@
   <component name="FindSettings">
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="FILE_MASK" value="*.py,*.xml" />
+    <option name="FILE_MASK" value="*.py,*.xml,*.csv,*.js" />
     <recentFileMasks>
       <mask>*.as</mask>
       <mask>*.mxml</mask>
@@ -21,7 +21,6 @@
       <mask>*.cfg</mask>
       <mask>*.py,*.xml, *.js</mask>
       <mask>nl.po</mask>
-      <mask>*.py,*.xml,*.csv,*.js</mask>
       <mask>nl*.po</mask>
       <mask>calendar.py</mask>
       <mask>*.</mask>
@@ -34,6 +33,7 @@
       <mask>*.py, *.xml</mask>
       <mask>*.py,*.xml,*.js</mask>
       <mask>*.py,*.xml</mask>
+      <mask>*.py,*.xml,*.csv,*.js</mask>
     </recentFileMasks>
   </component>
 </application>
