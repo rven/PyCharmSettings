@@ -2,7 +2,7 @@
   <component name="FindSettings">
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="FILE_MASK" value="*.py,*.xml,*.csv,*.js" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
       <mask>*.as</mask>
       <mask>*.mxml</mask>
@@ -27,13 +27,13 @@
       <mask>*.csv</mask>
       <mask>*</mask>
       <mask>*.xml,*.js,*.css</mask>
-      <mask>*.py</mask>
       <mask>*.xml</mask>
       <mask>*.js</mask>
       <mask>*.py, *.xml</mask>
       <mask>*.py,*.xml,*.js</mask>
       <mask>*.py,*.xml</mask>
       <mask>*.py,*.xml,*.csv,*.js</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
