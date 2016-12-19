@@ -1,6 +1,5 @@
 <application>
   <component name="FindSettings">
-    <option name="FILE_MASK" value="*.py,*.xml,*.csv,*.js" />
     <recentFileMasks>
       <mask>*.as</mask>
       <mask>*.mxml</mask>
