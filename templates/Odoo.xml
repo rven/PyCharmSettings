@@ -74,4 +74,9 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="security" value="'security/ir.model.access.csv'," description="Add ir.model.access.csv" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>
