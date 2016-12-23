@@ -3,11 +3,12 @@
     <property name="created">2016-09-14T13:13:00</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2016.2.1.0.0</property>
-    <property name="modified">2016-09-14T13:13:45</property>
+    <property name="modified">2016-12-23T14:13:24</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
+  <option name="CONSOLE_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <attributes>
     <option name="CONSOLE_ERROR_OUTPUT">
