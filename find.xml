@@ -2,7 +2,7 @@
   <component name="FindSettings">
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="FILE_MASK" value="*.py,*.xml,*.csv,*.js,*.css" />
+    <option name="FILE_MASK" value="*.py,*.xml,*.csv,*.js" />
     <recentFileMasks>
       <mask>*.mxml</mask>
       <mask>*.jrxml</mask>
@@ -32,8 +32,8 @@
       <mask>*.py,*.xml,*.js</mask>
       <mask>*.py,*.xml</mask>
       <mask>*.py</mask>
-      <mask>*.py,*.xml,*.csv,*.js</mask>
       <mask>*.py,*.xml,*.csv,*.js,*.css</mask>
+      <mask>*.py,*.xml,*.csv,*.js</mask>
     </recentFileMasks>
   </component>
 </application>
