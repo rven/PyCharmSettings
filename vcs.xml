@@ -1,5 +1,5 @@
 <application>
   <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="/opt/odoo/buildouts/ips/local/buildout/patches" />
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Desktop" />
   </component>
 </application>
