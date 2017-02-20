@@ -1,0 +1,3 @@
+<templateSet group="Odoo3">
+  <template name="&lt;abbreviation&gt;" value="sd" toReformat="false" toShortenFQNames="true" />
+</templateSet>
