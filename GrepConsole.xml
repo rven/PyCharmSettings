@@ -186,6 +186,27 @@
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="grepExpression" value=".*Missing many2one field definition.*" />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="id" value="d3894a13-1adb-4044-9d61-d5a04dc892f1" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-7783564" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="a962ef96-6e27-4bc4-8a77-8306b34a1506" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
                   </list>
                 </option>
                 <option name="name" value="Odoo" />
