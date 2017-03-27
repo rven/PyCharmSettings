@@ -59,7 +59,7 @@
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="company_partner_id" value="self.env.user.company_id.partner_id" toReformat="false" toShortenFQNames="true">
+  <template name="company_partner_id" value="self.env.user.company_id.partner_id" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="Python" value="true" />
     </context>

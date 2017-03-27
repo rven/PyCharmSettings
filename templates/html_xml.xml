@@ -1,5 +1,5 @@
 <templateSet group="html/xml">
-  <template name="xpath" value="&lt;xpath expr=&quot;//field[@name='']&quot; position=&quot;&quot;&gt;&#10;    &lt;field name=&quot;&quot;/&gt;&#10;&lt;/xpath&gt;" toReformat="false" toShortenFQNames="true">
+  <template name="xpath" value="&lt;xpath expr=&quot;//field[@name='']&quot; position=&quot;&quot;&gt;&#10;    &lt;field name=&quot;&quot;/&gt;&#10;&lt;/xpath&gt;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="XML" value="true" />
     </context>
