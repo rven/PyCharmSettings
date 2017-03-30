@@ -7,14 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="FILE_MASK" value="*.py, *.xml" />
     <recentFileMasks>
-      <mask>*.jsd</mask>
-      <mask>*.js,*.css</mask>
-      <mask>*.po</mask>
-      <mask>nl_BE.po</mask>
-      <mask>__openerp__.py</mask>
-      <mask>*.?css</mask>
       <mask>*.py,*.xml,*.csv</mask>
       <mask>*.css</mask>
       <mask>*.cfg</mask>
@@ -26,7 +20,6 @@
       <mask>*.xml,*.js,*.css</mask>
       <mask>*.xml</mask>
       <mask>*.js</mask>
-      <mask>*.py, *.xml</mask>
       <mask>*.py,*.xml,*.js</mask>
       <mask>*.py,*.xml</mask>
       <mask>*.py,*.xml,*.csv,*.js</mask>
@@ -39,6 +32,13 @@
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.py</mask>
+      <mask>*.py,</mask>
+      <mask>*.py,</mask>
+      <mask>*.py, *</mask>
+      <mask>*.py, *.</mask>
+      <mask>*.py, *.x</mask>
+      <mask>*.py, *.xm</mask>
+      <mask>*.py, *.xml</mask>
     </recentFileMasks>
   </component>
 </application>
