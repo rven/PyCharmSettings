@@ -7,18 +7,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.py,*.xml,*.csv,*.js,*.css" />
     <recentFileMasks>
-      <mask>calendar.py</mask>
-      <mask>*.csv</mask>
-      <mask>*.xml,*.js,*.css</mask>
-      <mask>*.py,*.xml,*.js</mask>
-      <mask>*.py,*.xml</mask>
-      <mask>*.py,*.xml,*.csv,*.js</mask>
-      <mask>*.jr</mask>
-      <mask>*.jrx</mask>
-      <mask>*.jrxm</mask>
-      <mask>*.jrxml</mask>
-      <mask>*.py</mask>
-      <mask>*.py,</mask>
       <mask>*.py,</mask>
       <mask>*.py, *</mask>
       <mask>*.py, *.</mask>
@@ -31,9 +19,21 @@
       <mask>*.py, *.xml, *.</mask>
       <mask>*.py, *.xml, *.js</mask>
       <mask>*.xm</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.xml</mask>
+      <mask>*.csv,*.js,*.css</mask>
+      <mask>.csv,*.js,*.css</mask>
+      <mask>csv,*.js,*.css</mask>
+      <mask>sv,*.js,*.css</mask>
+      <mask>v,*.js,*.css</mask>
+      <mask>,*.js,*.css</mask>
+      <mask>*.js,*.css</mask>
+      <mask>*.js,*.cs</mask>
+      <mask>*.js,*.c</mask>
+      <mask>*.js,*.</mask>
+      <mask>*.js,*</mask>
+      <mask>*.js,</mask>
+      <mask>*.js</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.py,*.xml,*.csv,*.js,*.css</mask>
