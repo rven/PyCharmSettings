@@ -3,15 +3,12 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py,*.xml,*.csv,*.js,*.css" />
+    <option name="FILE_MASK" value="*.css" />
     <recentFileMasks>
-      <mask>*.py, *.xm</mask>
-      <mask>*.py, *.xml</mask>
-      <mask>*.py, *.xml,</mask>
       <mask>*.py, *.xml,</mask>
       <mask>*.py, *.xml, *</mask>
       <mask>*.py, *.xml, *.</mask>
@@ -31,14 +28,17 @@
       <mask>*.po</mask>
       <mask>nl*.po</mask>
       <mask>*.j</mask>
+      <mask>*.p</mask>
+      <mask>*.js</mask>
+      <mask>*.py,*.xml,*.csv,*.js,*.css</mask>
+      <mask>*</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
-      <mask>*.p</mask>
-      <mask>*.js</mask>
-      <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.py,*.xml,*.csv,*.js,*.css</mask>
+      <mask>*.c</mask>
+      <mask>*.cs</mask>
+      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>
