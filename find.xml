@@ -29,15 +29,15 @@
       <mask>*.j</mask>
       <mask>*.p</mask>
       <mask>*.js</mask>
-      <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
       <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
+      <mask>*.py,*.xml,*.csv,*.js,*.css²</mask>
+      <mask>*.xml</mask>
       <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.py,*.xml,*.csv,*.js,*.css²</mask>
       <mask>*.py,*.xml,*.csv,*.js,*.css</mask>
     </recentFileMasks>
   </component>
