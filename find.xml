@@ -21,7 +21,6 @@
       <mask>*.cs</mask>
       <mask>*.css</mask>
       <mask>*.py,*.xml,*.csv,*.js,*.css²</mask>
-      <mask>*.xml</mask>
       <mask>nl</mask>
       <mask>nl_</mask>
       <mask>nl_B</mask>
@@ -34,6 +33,7 @@
       <mask>*.py</mask>
       <mask>*.</mask>
       <mask>*.p</mask>
+      <mask>*.xml</mask>
       <mask>*.py,*.xml,*.csv,*.js,*.css</mask>
     </recentFileMasks>
   </component>
