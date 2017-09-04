@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py,*.xml,*.csv,*.js,*.css" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
       <mask>*.js,*.css</mask>
       <mask>*.js,*.cs</mask>
@@ -29,12 +29,12 @@
       <mask>nl_BE.p</mask>
       <mask>nl_BE.po</mask>
       <mask>*</mask>
-      <mask>*.py,</mask>
-      <mask>*.py</mask>
       <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.xml</mask>
       <mask>*.py,*.xml,*.csv,*.js,*.css</mask>
+      <mask>*.py,</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
