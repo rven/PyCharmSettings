@@ -7,7 +7,7 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py,*.xml,*.csv,*.js,*.css" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.js,*.css</mask>
       <mask>*.js,*.cs</mask>
@@ -17,7 +17,6 @@
       <mask>*.js,</mask>
       <mask>*.po</mask>
       <mask>nl*.po</mask>
-      <mask>*.j</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
       <mask>*.c</mask>
@@ -32,13 +31,14 @@
       <mask>nl_BE.p</mask>
       <mask>nl_BE.po</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.xml</mask>
       <mask>*.py,</mask>
+      <mask>*.py,*.xml,*.csv,*.js,*.css</mask>
       <mask>*.py</mask>
       <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
       <mask>*.js</mask>
-      <mask>*.py,*.xml,*.csv,*.js,*.css</mask>
     </recentFileMasks>
   </component>
 </application>
