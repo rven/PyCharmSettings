@@ -14,6 +14,7 @@
       <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern=".pylintrc" type="PLAIN_TEXT" />
       <mapping pattern="header" type="PLAIN_TEXT" />
       <mapping pattern="d" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
