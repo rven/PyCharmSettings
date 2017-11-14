@@ -19,4 +19,9 @@
       <option name="JSON" value="true" />
     </context>
   </template>
+  <template name="verify_method" value="{&#10;  &quot;action&quot;: &quot;verify_method&quot;,&#10;  &quot;eval_method&quot;: {&#10;    &quot;do_warehouse_split&quot;: {&#10;      &quot;args&quot;: [&#10;        &quot;value&quot;&#10;      ],&#10;      &quot;keyword_args&quot;: {&#10;        &quot;key&quot;: &quot;value&quot;&#10;      },&#10;      &quot;result&quot;: &quot;result&quot;,&#10;      &quot;exception&quot;: &quot;ValidationError&quot;,&#10;      &quot;message&quot;: &quot;regexp&quot;&#10;    }&#10;  }&#10;}" description="Verify method" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JSON" value="true" />
+    </context>
+  </template>
 </templateSet>
