@@ -24,4 +24,9 @@
       <option name="JSON" value="true" />
     </context>
   </template>
+  <template name="one2many_field" value="&quot;fields_ids&quot;: {&#10;  &quot;type&quot;: &quot;one2many&quot;,&#10;  &quot;string&quot;: &quot;&quot;,&#10;  &quot;comodel_name&quot;: &quot;&quot;,&#10;  &quot;inverse_name&quot;: &quot;&quot;&#10;}&#10;" description="One2many Field Model definition" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JSON" value="true" />
+    </context>
+  </template>
 </templateSet>
