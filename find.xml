@@ -14,7 +14,6 @@
       <mask>*.js,*</mask>
       <mask>*.js,</mask>
       <mask>*.xm</mask>
-      <mask>*.x</mask>
       <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
@@ -26,16 +25,17 @@
       <mask>nl_BE.</mask>
       <mask>nl_BE.p</mask>
       <mask>nl_BE.po</mask>
-      <mask>*.xml</mask>
       <mask>*.j</mask>
       <mask>*.py,</mask>
       <mask>*.p</mask>
-      <mask>*.</mask>
-      <mask>*</mask>
       <mask>*.po</mask>
       <mask>nl*.po</mask>
       <mask>*.py</mask>
       <mask>*.js</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
       <mask>*.py,*.xml,*.csv,*.js,*.css</mask>
     </recentFileMasks>
   </component>
