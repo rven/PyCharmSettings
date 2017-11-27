@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.jrxml" />
+    <option name="FILE_MASK" value="*.py,*.xml,*.csv,*.js,*.css" />
     <recentFileMasks>
       <mask>*.js,*.</mask>
       <mask>*.js,*</mask>
@@ -30,13 +30,13 @@
       <mask>*.js</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
-      <mask>*.py,*.xml,*.csv,*.js,*.css</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.jr</mask>
       <mask>*.jrxm</mask>
       <mask>*.jrxml</mask>
+      <mask>*.py,*.xml,*.csv,*.js,*.css</mask>
     </recentFileMasks>
   </component>
 </application>
