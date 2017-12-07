@@ -2,8 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py,*.xml,*.csv,*.js,*.css" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.js,*.</mask>
       <mask>*.js,*</mask>
@@ -27,7 +29,6 @@
       <mask>*.py</mask>
       <mask>*.js</mask>
       <mask>*.x</mask>
-      <mask>*.xml</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
@@ -35,6 +36,7 @@
       <mask>*.jrxm</mask>
       <mask>*.jrxml</mask>
       <mask>*.py,*.xml,*.csv,*.js,*.css</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
