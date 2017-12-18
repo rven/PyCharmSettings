@@ -1,0 +1,7 @@
+<application>
+  <component name="Vcs.Log.Big.Repositories">
+    <option name="REPOSITORIES">
+      <repository path="/opt/odoo/buildouts/komono/local/parts/odoo" />
+    </option>
+  </component>
+</application>
