@@ -6,7 +6,6 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.js,*</mask>
       <mask>*.js,</mask>
       <mask>*.xm</mask>
       <mask>*.c</mask>
@@ -36,6 +35,7 @@
       <mask>*.xml</mask>
       <mask>*.py,*.xml,*.csv,*.js,*.css</mask>
       <mask>*.py,*.xml,*.csv,*.js,*.css*.jrxml</mask>
+      <mask>*.py,*.xml,*.csv,*.js,*.css,*.jrxml</mask>
     </recentFileMasks>
   </component>
 </application>
