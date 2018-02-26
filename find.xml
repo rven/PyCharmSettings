@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py,*.xml,*.csv,*.js,*.css" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
       <mask>*.js,</mask>
       <mask>*.xm</mask>
@@ -24,7 +24,6 @@
       <mask>*.p</mask>
       <mask>*.po</mask>
       <mask>nl*.po</mask>
-      <mask>*.py</mask>
       <mask>*.x</mask>
       <mask>*</mask>
       <mask>*.</mask>
@@ -37,6 +36,7 @@
       <mask>*.py,*.xml,*.csv,*.js,*.css,*.jrxml</mask>
       <mask>*.js</mask>
       <mask>*.py,*.xml,*.csv,*.js,*.css</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
