@@ -1,12 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py,*.xml,*.csv,*.js,*.css" />
     <recentFileMasks>
       <mask>*.js,</mask>
       <mask>*.xm</mask>
@@ -26,7 +23,6 @@
       <mask>*.po</mask>
       <mask>nl*.po</mask>
       <mask>*.py</mask>
-      <mask>*.js</mask>
       <mask>*.x</mask>
       <mask>*</mask>
       <mask>*.</mask>
@@ -35,9 +31,10 @@
       <mask>*.jrxm</mask>
       <mask>*.jrxml</mask>
       <mask>*.xml</mask>
-      <mask>*.py,*.xml,*.csv,*.js,*.css</mask>
       <mask>*.py,*.xml,*.csv,*.js,*.css*.jrxml</mask>
       <mask>*.py,*.xml,*.csv,*.js,*.css,*.jrxml</mask>
+      <mask>*.js</mask>
+      <mask>*.py,*.xml,*.csv,*.js,*.css</mask>
     </recentFileMasks>
   </component>
 </application>
