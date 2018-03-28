@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
       <mask>*.js,</mask>
       <mask>*.xm</mask>
@@ -34,10 +35,10 @@
       <mask>*.xml</mask>
       <mask>*.py,*.xml,*.csv,*.js,*.css*.jrxml</mask>
       <mask>*.py,*.xml,*.csv,*.js,*.css,*.jrxml</mask>
-      <mask>*.py</mask>
       <mask>*</mask>
       <mask>*.js</mask>
       <mask>*.py,*.xml,*.csv,*.js,*.css</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
