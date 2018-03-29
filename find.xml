@@ -7,38 +7,6 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py,*.xml,*.csv,*.js,*.css" />
-    <recentFileMasks>
-      <mask>*.js,</mask>
-      <mask>*.xm</mask>
-      <mask>*.c</mask>
-      <mask>*.cs</mask>
-      <mask>*.css</mask>
-      <mask>*.py,*.xml,*.csv,*.js,*.css²</mask>
-      <mask>nl</mask>
-      <mask>nl_</mask>
-      <mask>nl_B</mask>
-      <mask>nl_BE</mask>
-      <mask>nl_BE.</mask>
-      <mask>nl_BE.p</mask>
-      <mask>nl_BE.po</mask>
-      <mask>*.py,</mask>
-      <mask>*.p</mask>
-      <mask>*.po</mask>
-      <mask>nl*.po</mask>
-      <mask>*.x</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.jr</mask>
-      <mask>*.jrxm</mask>
-      <mask>*.jrxml</mask>
-      <mask>*.xml</mask>
-      <mask>*.py,*.xml,*.csv,*.js,*.css*.jrxml</mask>
-      <mask>*.py,*.xml,*.csv,*.js,*.css,*.jrxml</mask>
-      <mask>*</mask>
-      <mask>*.js</mask>
-      <mask>*.py</mask>
-      <mask>*.py,*.xml,*.csv,*.js,*.css</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.py" />
   </component>
 </application>
