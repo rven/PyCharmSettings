@@ -1,4 +1,4 @@
-<code_scheme name="Default">
+<code_scheme name="Default" version="173">
   <option name="RIGHT_MARGIN" value="100" />
   <DBN-PSQL>
     <case-options enabled="false">
@@ -48,4 +48,7 @@
       <option name="ITERATION_ELEMENTS_WRAPPING" value="chop_down_if_not_single" />
     </formatting-settings>
   </DBN-SQL>
+  <SqlCodeStyleSettings>
+    <option name="KEYWORD_CASE" value="0" />
+  </SqlCodeStyleSettings>
 </code_scheme>
