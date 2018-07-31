@@ -18,9 +18,9 @@
     <mask>*.py,*.xml</mask>
     <mask>*.xml,*.js</mask>
     <mask>*.py,*.xml,*.js,*.rst</mask>
-    <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.py</mask>
+    <mask>*.xml</mask>
     <mask>*.py,*.xml,*.js</mask>
   </component>
 </application>
