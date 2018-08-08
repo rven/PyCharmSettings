@@ -20,5 +20,6 @@
     <mask>*.xml</mask>
     <mask>*.py,*.xml,*.js</mask>
     <mask>*.py,*.xml,*.js,*.csv</mask>
+    <mask>*.csv</mask>
   </component>
 </application>
