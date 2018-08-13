@@ -52,6 +52,7 @@
     <option name="ALIAS_CASE" value="4" />
     <option name="KEYWORD_CASE" value="0" />
     <option name="TYPE_CASE" value="3" />
+    <option name="QUERY_EL_LINE" value="101" />
     <option name="SET_EL_WRAP" value="0" />
     <option name="SET_EL_COMMA" value="0" />
     <option name="WITH_EL_WRAP" value="0" />
@@ -63,5 +64,6 @@
     <option name="EXPR_CASE_WHEN_WRAP" value="false" />
     <option name="EXPR_CASE_THEN_WRAP" value="true" />
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
+    <option name="NEW_LINE_AROUND_SEMICOLON" value="true" />
   </SqlCodeStyleSettings>
 </code_scheme>
