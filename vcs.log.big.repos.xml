@@ -6,6 +6,7 @@
       <repository path="/opt/odoo/buildouts/esplastics/local/parts/odoo" />
       <repository path="/opt/odoo/buildouts/komono/local/parts/odoo" />
       <repository path="/opt/odoo/env/intracto/odoo" />
+      <repository path="/opt/odoo/github/rven/odoo" />
       <repository path="/opt/odoo/verticals/flask-repo-index/git_repos/oca_github/OCA/OCB" />
     </option>
   </component>
