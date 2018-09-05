@@ -24,30 +24,6 @@
       <option name="ITERATION_ELEMENTS_WRAPPING" value="chop_down_if_not_single" />
     </formatting-settings>
   </DBN-SQL>
-  <DBN-PSQL>
-    <case-options enabled="false">
-      <option name="KEYWORD_CASE" value="lower" />
-      <option name="FUNCTION_CASE" value="lower" />
-      <option name="PARAMETER_CASE" value="lower" />
-      <option name="DATATYPE_CASE" value="lower" />
-      <option name="OBJECT_CASE" value="preserve" />
-    </case-options>
-    <formatting-settings enabled="false" />
-  </DBN-PSQL>
-  <DBN-SQL>
-    <case-options enabled="false">
-      <option name="KEYWORD_CASE" value="lower" />
-      <option name="FUNCTION_CASE" value="lower" />
-      <option name="PARAMETER_CASE" value="lower" />
-      <option name="DATATYPE_CASE" value="lower" />
-      <option name="OBJECT_CASE" value="preserve" />
-    </case-options>
-    <formatting-settings enabled="false">
-      <option name="STATEMENT_SPACING" value="one_line" />
-      <option name="CLAUSE_CHOP_DOWN" value="chop_down_if_statement_long" />
-      <option name="ITERATION_ELEMENTS_WRAPPING" value="chop_down_if_not_single" />
-    </formatting-settings>
-  </DBN-SQL>
   <SqlCodeStyleSettings version="1">
     <option name="ALIAS_CASE" value="4" />
     <option name="KEYWORD_CASE" value="0" />
@@ -57,8 +33,8 @@
     <option name="SET_EL_COMMA" value="0" />
     <option name="WITH_EL_WRAP" value="0" />
     <option name="WITH_EL_COMMA" value="0" />
-    <option name="SELECT_EL_WRAP" value="3" />
-    <option name="FROM_EL_WRAP" value="2" />
+    <option name="SELECT_EL_WRAP" value="0" />
+    <option name="FROM_EL_WRAP" value="0" />
     <option name="WHERE_EL_WRAP" value="0" />
     <option name="CORTEGE_SPACE_BEFORE_L_PAREN" value="false" />
     <option name="EXPR_CASE_WHEN_WRAP" value="false" />
