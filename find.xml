@@ -21,6 +21,7 @@
     <mask>*.py,*.xml,*.js,*.csv</mask>
     <mask>*.py,*.xml</mask>
     <mask>*.py</mask>
+    <mask>*.jrxml</mask>
     <mask>*.py,*.xml,*.js</mask>
   </component>
 </application>
