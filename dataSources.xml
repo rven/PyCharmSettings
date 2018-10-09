@@ -1,0 +1,34 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="ajusto@localhost" uuid="435393eb-163b-4a48-9b69-0a67bcbcab0d">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/ajusto</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="engie-11.0-odoo-sh@localhost" uuid="b230c7bc-b948-4c39-87be-f575f703dd9f">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/engie-11.0-odoo-sh</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="engie-11.0-dry-run@localhost" uuid="c548c4dd-f3eb-45d6-a44f-58a51d133f6c">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/engie-11.0-dry-run</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="engie-11.0@localhost" uuid="1e205ce0-359f-4c2c-9dc1-8383ed129d4d">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/engie-11.0</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="engie@localhost" uuid="5fce6d07-cddb-4010-a833-d77ceaaad561">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/engie</jdbc-url>
+    </data-source>
+  </component>
+</application>
