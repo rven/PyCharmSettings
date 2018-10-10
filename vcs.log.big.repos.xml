@@ -1,6 +1,7 @@
 <application>
   <component name="Vcs.Log.Big.Repositories">
     <option name="REPOSITORIES">
+      <repository path="/opt/odoo/buildouts/50five/local/parts/odoo" />
       <repository path="/opt/odoo/buildouts/buur/local/local/parts/odoo" />
       <repository path="/opt/odoo/buildouts/engie/local" />
       <repository path="/opt/odoo/buildouts/engie/local/local/parts/odoo" />
