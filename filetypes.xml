@@ -5,10 +5,11 @@
       <mapping pattern="dynapps.cfg" type="BuildoutCfg" />
       <removed_mapping ext="cfg" approved="true" type="Ini" />
       <mapping ext="tar" type="Native" />
-      <mapping pattern="d" type="PLAIN_TEXT" />
-      <mapping pattern="header" type="PLAIN_TEXT" />
       <mapping pattern=".pylintrc" type="PLAIN_TEXT" />
+      <mapping pattern="COPYRIGHT" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="header" type="PLAIN_TEXT" />
+      <mapping pattern="d" type="PLAIN_TEXT" />
       <mapping ext="62py" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
