@@ -18,6 +18,7 @@
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="jasper" type="PLAIN_TEXT" />
       <mapping pattern="*.py.j2" type="Python" />
+      <mapping pattern="MCSDummyAPI" type="Python" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
