@@ -22,8 +22,8 @@
     <mask>*.py,*.xml,*.js</mask>
     <mask>*.py</mask>
     <mask>*.py,*.xml,*.js,*.csv</mask>
-    <mask>*.xml</mask>
     <mask>nl*.po</mask>
+    <mask>*.xml</mask>
     <mask>*.py,*.xml,*.js,*.csv,*.txt</mask>
   </component>
 </application>
