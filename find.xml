@@ -13,7 +13,6 @@
     <mask>*.jsp</mask>
     <mask>*.java</mask>
     <mask>*.as</mask>
-    <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.xml,*.js</mask>
     <mask>*.py,*.xml,*.js,*.rst</mask>
@@ -28,6 +27,7 @@
     <mask>*.js</mask>
     <mask>*.scss</mask>
     <mask>*.xml</mask>
+    <mask>*.css</mask>
     <mask>*.py,*.xml,*.js,*.csv,*.txt</mask>
   </component>
 </application>
