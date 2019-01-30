@@ -12,6 +12,7 @@
       <mapping pattern="d" type="PLAIN_TEXT" />
       <mapping ext="62py" type="PLAIN_TEXT" />
       <mapping ext="rc" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
