@@ -3,7 +3,6 @@
     <data-views />
     <general>
       <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
-      <option name="showDebuggerOnBreakpoint" value="false" />
     </general>
     <debuggers>
       <debugger id="javascript">
