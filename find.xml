@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="model*.py" />
+    <option name="FILE_MASK" value="*.py,*.xml,*.js,*.csv,*.txt" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -24,7 +24,7 @@
     <mask>*.jrxml</mask>
     <mask>*.py</mask>
     <mask>*.js</mask>
-    <mask>*.py,*.xml,*.js,*.csv,*.txt</mask>
     <mask>model*.py</mask>
+    <mask>*.py,*.xml,*.js,*.csv,*.txt</mask>
   </component>
 </application>
