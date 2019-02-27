@@ -24,10 +24,10 @@
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.jrxml</mask>
-    <mask>*.py</mask>
     <mask>*.js</mask>
     <mask>model*.py</mask>
     <mask>__man*.py</mask>
+    <mask>*.py</mask>
     <mask>*.py,*.xml,*.js,*.csv,*.txt</mask>
   </component>
 </application>
