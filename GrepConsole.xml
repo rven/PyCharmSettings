@@ -12,7 +12,6 @@
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*ERROR.*tests.*" />
                       <option name="highlightOnlyMatchingText" value="true" />
-                      <option name="id" value="21eef3dc-31bc-4f56-b219-81941453bcea" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
@@ -26,14 +25,12 @@
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
-                          <option name="id" value="c1ade19b-b658-4e09-b97b-8046655084b0" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*INFO.*tests.*OK" />
                       <option name="highlightOnlyMatchingText" value="true" />
-                      <option name="id" value="d9cac84c-80ad-4988-bd2d-c97c162e7020" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
@@ -48,14 +45,12 @@
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
-                          <option name="id" value="3be5b62f-b573-4434-85bf-4d9b2dee9220" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*INFO.*tests.*" />
                       <option name="highlightOnlyMatchingText" value="true" />
-                      <option name="id" value="20626523-8589-4427-9c7b-b53e08b68237" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
@@ -69,7 +64,6 @@
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
-                          <option name="id" value="3be5b62f-b573-4434-85bf-4d9b2dee9220" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
@@ -78,13 +72,11 @@
                 <option name="name" value="Tests" />
               </GrepExpressionGroup>
               <GrepExpressionGroup>
-                <option name="enabled" value="true" />
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*has no access rules.*" />
                       <option name="highlightOnlyMatchingText" value="true" />
-                      <option name="id" value="eb9dcbeb-ac08-4116-a558-44b833b17e6c" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
@@ -98,14 +90,12 @@
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
-                          <option name="id" value="f9474cfb-8f01-4c0b-a385-86bed0fdabee" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*unable to set a NOT NULL constraint on column.*" />
                       <option name="highlightOnlyMatchingText" value="true" />
-                      <option name="id" value="b025216c-8bd6-4026-9e9d-9c1e54f16de0" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
@@ -119,14 +109,12 @@
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
-                          <option name="id" value="783360eb-e8c0-4582-a6a4-a9c15bfb5a86" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*Model .*is declared but cannot be loaded.*" />
                       <option name="highlightOnlyMatchingText" value="true" />
-                      <option name="id" value="833eda70-17b6-4a1b-90ce-715f0201c94e" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
@@ -140,14 +128,12 @@
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
-                          <option name="id" value="d5b4558a-ef54-4f14-a792-0da178322e17" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*Cannot import.*" />
                       <option name="highlightOnlyMatchingText" value="true" />
-                      <option name="id" value="4228a1b5-723a-4e76-9fb8-8df4f6cb4ace" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
@@ -161,14 +147,12 @@
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
-                          <option name="id" value="cea2b653-ee51-42fe-bc88-145b029f401a" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*create().*unknwon fields.*" />
                       <option name="highlightOnlyMatchingText" value="true" />
-                      <option name="id" value="8002c941-740c-45e1-98b1-c354ba3161d0" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
@@ -182,14 +166,12 @@
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
-                          <option name="id" value="a962ef96-6e27-4bc4-8a77-8306b34a1506" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*Missing many2one field definition.*" />
                       <option name="highlightOnlyMatchingText" value="true" />
-                      <option name="id" value="d3894a13-1adb-4044-9d61-d5a04dc892f1" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
@@ -203,7 +185,6 @@
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
-                          <option name="id" value="a962ef96-6e27-4bc4-8a77-8306b34a1506" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
@@ -215,8 +196,21 @@
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
+                      <option name="grepExpression" value=".*INFO.*" />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-8684677" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
                       <option name="grepExpression" value=".*FATAL.*" />
-                      <option name="id" value="a9217c96-a91f-467e-8ae9-b4bb32a50e1d" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
@@ -231,13 +225,11 @@
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
-                          <option name="id" value="050054c4-45a2-4793-9869-bd6c631c0f21" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*ERROR.*" />
-                      <option name="id" value="e19e6d3b-0dcc-4e29-982a-5352ccb7ec40" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
@@ -251,13 +243,11 @@
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
-                          <option name="id" value="4856f375-eaff-4895-92d2-90b77b0eee2c" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*WARN.*" />
-                      <option name="id" value="6c401ba1-09fa-4045-9d8a-f50ca7f20e97" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
@@ -271,13 +261,11 @@
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
-                          <option name="id" value="d05d1ecf-733d-4e15-92b9-c6a909e13854" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*DEBUG.*" />
-                      <option name="id" value="756c66b0-291f-4042-88e9-064a41a7504d" />
                       <option name="style">
                         <GrepStyle>
                           <option name="foregroundColor">
@@ -286,13 +274,11 @@
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
-                          <option name="id" value="1e3317c7-e7a2-4d4b-a602-b10b6b0e31db" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*TRACE.*" />
-                      <option name="id" value="58fee7f1-fe40-46d3-aa30-ddb410f53834" />
                       <option name="style">
                         <GrepStyle>
                           <option name="foregroundColor">
@@ -300,7 +286,6 @@
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
-                          <option name="id" value="1da72b82-b03b-47cd-abe3-5e21f648856d" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
@@ -312,8 +297,10 @@
           </option>
           <option name="id" value="1476425636926" />
           <option name="maxLengthToMatch" value="400" />
+          <option name="name" value="default" />
         </Profile>
       </list>
     </option>
+    <option name="version" value="1" />
   </component>
 </application>
