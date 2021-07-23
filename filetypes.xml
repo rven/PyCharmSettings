@@ -1,38 +1,8 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <ignoreFiles list="*$py.class;*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <mapping pattern="dynapps.cfg" type="BuildoutCfg" />
       <removed_mapping ext="cfg" approved="true" type="Ini" />
-      <mapping ext="tar" type="Native" />
-      <mapping pattern=".pylintignore" type="PLAIN_TEXT" />
-      <mapping pattern=".pylintrc" type="PLAIN_TEXT" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
-      <mapping pattern="COPYRIGHT" type="PLAIN_TEXT" />
-      <mapping pattern="header" type="PLAIN_TEXT" />
-      <mapping pattern="d" type="PLAIN_TEXT" />
-      <mapping ext="62py" type="PLAIN_TEXT" />
-      <mapping ext="rc" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
-      <mapping ext="cfg" type="PLAIN_TEXT" />
-      <mapping ext="j2" type="PLAIN_TEXT" />
-      <mapping ext="woff" type="PLAIN_TEXT" />
-      <mapping ext="ttf" type="PLAIN_TEXT" />
-      <mapping ext="env" type="PLAIN_TEXT" />
-      <mapping ext="jasper" type="PLAIN_TEXT" />
-      <mapping pattern="*.py.j2" type="Python" />
-      <mapping pattern="MCSDummyAPI" type="Python" />
-      <removed_mapping ext="cfg" approved="true" type="Ini" />
-      <mapping ext="fnc" type="DBN-PSQL" />
-      <mapping ext="pkb" type="DBN-PSQL" />
-      <mapping ext="pkg" type="DBN-PSQL" />
-      <mapping ext="pks" type="DBN-PSQL" />
-      <mapping ext="prc" type="DBN-PSQL" />
-      <mapping ext="tpb" type="DBN-PSQL" />
-      <mapping ext="tpe" type="DBN-PSQL" />
-      <mapping ext="tps" type="DBN-PSQL" />
-      <mapping ext="trg" type="DBN-PSQL" />
-      <mapping ext="vw" type="DBN-SQL" />
     </extensionMap>
   </component>
 </application>
