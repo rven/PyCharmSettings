@@ -10,13 +10,13 @@
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
-                      <option name="grepExpression" value=".*ERROR.*tests.*" />
+                      <option name="grepExpression" value=".*INFO.*tests.*" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-65536" />
+                              <option name="color" value="-8684677" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -49,13 +49,13 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="grepExpression" value=".*INFO.*tests.*" />
+                      <option name="grepExpression" value=".*ERROR.*tests.*" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-8684677" />
+                              <option name="color" value="-65536" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
