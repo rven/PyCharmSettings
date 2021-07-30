@@ -7,7 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py,*.xml,*.js,*.csv,*.txt" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -24,7 +24,6 @@
     <mask>*.scss</mask>
     <mask>*.css</mask>
     <mask>*.jrxml</mask>
-    <mask>*.js</mask>
     <mask>model*.py</mask>
     <mask>__man*.py</mask>
     <mask>*.po</mask>
@@ -32,5 +31,6 @@
     <mask>nl*.po</mask>
     <mask>*.xml</mask>
     <mask>*.py,*.xml,*.js,*.csv,*.txt</mask>
+    <mask>*.js</mask>
   </component>
 </application>
