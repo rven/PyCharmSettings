@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="50five-odoo-v14-fec81bbded8f.victhorious.com" id="73481e63-da91-4d17-9574-5756cceb5e8c" keyPath="$USER_HOME$/.ssh/id_rsa" port="2225" nameFormat="DESCRIPTIVE" username="root" />
+    </configs>
+  </component>
+</application>
