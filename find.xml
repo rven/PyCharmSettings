@@ -20,7 +20,6 @@
     <mask>*.py,*.xml</mask>
     <mask>*.py,*.xml,*.js</mask>
     <mask>*.py,*.xml,*.js,*.csv</mask>
-    <mask>*.scss</mask>
     <mask>*.css</mask>
     <mask>*.jrxml</mask>
     <mask>model*.py</mask>
@@ -31,6 +30,7 @@
     <mask>*.py</mask>
     <mask>*.xml</mask>
     <mask>*.js</mask>
+    <mask>*.scss</mask>
     <mask>*.py,*.xml,*.js,*.csv,*.txt</mask>
   </component>
 </application>
