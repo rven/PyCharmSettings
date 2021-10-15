@@ -7,7 +7,6 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py,*.xml,*.js,*.csv,*.txt" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -25,12 +24,12 @@
     <mask>model*.py</mask>
     <mask>__man*.py</mask>
     <mask>*.po</mask>
-    <mask>nl*.po</mask>
     <mask>test*.py</mask>
     <mask>*.py</mask>
     <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.scss</mask>
     <mask>*.py,*.xml,*.js,*.csv,*.txt</mask>
+    <mask>nl*.po</mask>
   </component>
 </application>
