@@ -25,11 +25,11 @@
     <mask>*.js</mask>
     <mask>*.scss</mask>
     <mask>test*.py</mask>
+    <mask>con*.py</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
-    <mask>*.pyw</mask>
-    <mask>con*.py</mask>
     <mask>*.xml</mask>
+    <mask>*.pyw</mask>
     <mask>*.py</mask>
     <mask>*.py,*.xml,*.js,*.csv,*.txt</mask>
   </component>
