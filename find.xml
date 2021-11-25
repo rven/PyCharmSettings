@@ -11,7 +11,7 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py,*.xml,*.js,*.csv,*.txt" />
+    <option name="FILE_MASK" value="test*.py" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -31,12 +31,12 @@
     <mask>*.scss</mask>
     <mask>con*.py</mask>
     <mask>*.js</mask>
-    <mask>test*.py</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.pyw</mask>
     <mask>*.py</mask>
     <mask>*.py,*.xml,*.js,*.csv,*.txt</mask>
+    <mask>test*.py</mask>
   </component>
 </application>
