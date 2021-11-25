@@ -31,11 +31,11 @@
     <mask>*.scss</mask>
     <mask>con*.py</mask>
     <mask>*.js</mask>
+    <mask>test*.py</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.pyw</mask>
-    <mask>test*.py</mask>
     <mask>*.py</mask>
     <mask>*.py,*.xml,*.js,*.csv,*.txt</mask>
   </component>
