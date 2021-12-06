@@ -22,7 +22,6 @@
     <mask>*.jrxml</mask>
     <mask>model*.py</mask>
     <mask>__man*.py</mask>
-    <mask>*.po</mask>
     <mask>*.scss</mask>
     <mask>con*.py</mask>
     <mask>nl*.po</mask>
@@ -33,6 +32,7 @@
     <mask>*.js</mask>
     <mask>*.xml</mask>
     <mask>*.py</mask>
+    <mask>*.po</mask>
     <mask>*.py,*.xml,*.js,*.csv,*.txt</mask>
   </component>
 </application>
