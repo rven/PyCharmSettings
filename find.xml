@@ -29,10 +29,10 @@
     <mask>*.html</mask>
     <mask>*.pyw</mask>
     <mask>test*.py</mask>
-    <mask>*.js</mask>
     <mask>*.py</mask>
     <mask>*.po</mask>
     <mask>*.xml</mask>
+    <mask>*.js</mask>
     <mask>*.py,*.xml,*.js,*.csv,*.txt</mask>
   </component>
 </application>
