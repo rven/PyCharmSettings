@@ -27,11 +27,11 @@
     <mask>*.html</mask>
     <mask>*.pyw</mask>
     <mask>test*.py</mask>
-    <mask>*.xml</mask>
     <mask>*.po</mask>
     <mask>*gant*.js</mask>
     <mask>*.js</mask>
     <mask>*.py</mask>
+    <mask>*.xml</mask>
     <mask>*.py,*.xml,*.js,*.csv,*.txt</mask>
   </component>
 </application>
