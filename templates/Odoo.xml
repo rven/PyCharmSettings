@@ -19,7 +19,7 @@
       <option name="XML" value="true" />
     </context>
   </template>
-  <template name="data" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;&#10;&lt;openerp&gt;&#10;    &lt;data noupdate=&quot;1&quot;&gt;&#10;        &lt;record id=&quot;&quot; model=&quot;&quot;&gt;&#10;            &lt;field name=&quot;&quot;&gt;&lt;/field&gt;&#10;        &lt;/record&gt;&#10;    &lt;/data&gt;&#10;&lt;/openerp&gt;&#10;" description="Data definition" toReformat="false" toShortenFQNames="true">
+  <template name="data" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;&#10;&lt;odoo noupdate=&quot;1&quot;&gt;&#10;    &lt;record id=&quot;&quot; model=&quot;&quot;&gt;&#10;        &lt;field name=&quot;&quot;&gt;&lt;/field&gt;&#10;    &lt;/record&gt;&#10;&lt;/odoo&gt;&#10;" description="Data definition" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="XML" value="true" />
     </context>
