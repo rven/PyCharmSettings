@@ -1,9 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="regularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
@@ -22,7 +24,6 @@
     <mask>*.jrxml</mask>
     <mask>model*.py</mask>
     <mask>__man*.py</mask>
-    <mask>*.scss</mask>
     <mask>con*.py</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
@@ -34,6 +35,7 @@
     <mask>nl*.po</mask>
     <mask>*.js</mask>
     <mask>*.py</mask>
+    <mask>*.scss</mask>
     <mask>*.xml</mask>
     <mask>*.py,*.xml,*.js,*.csv,*.txt</mask>
   </component>
