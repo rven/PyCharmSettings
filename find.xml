@@ -35,8 +35,8 @@
     <mask>*.scss</mask>
     <mask>test*.py</mask>
     <mask>*.js</mask>
-    <mask>*.xml</mask>
     <mask>*.py</mask>
+    <mask>*.xml</mask>
     <mask>*.py,*.xml,*.js,*.csv,*.txt</mask>
   </component>
 </application>
