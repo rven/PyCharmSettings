@@ -30,9 +30,9 @@
     <mask>*.scss</mask>
     <mask>*.js</mask>
     <mask>*.py</mask>
-    <mask>*.xml</mask>
     <mask>test*.py</mask>
     <mask>nl*.po</mask>
+    <mask>*.xml</mask>
     <mask>*.py,*.xml,*.js,*.csv,*.txt</mask>
   </component>
 </application>
