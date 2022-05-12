@@ -33,8 +33,8 @@
     <mask>test*.py</mask>
     <mask>nl*.po</mask>
     <mask>*.po</mask>
-    <mask>*.xml</mask>
     <mask>*.py</mask>
+    <mask>*.xml</mask>
     <mask>*.py,*.xml,*.js,*.csv,*.txt</mask>
   </component>
 </application>
