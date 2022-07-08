@@ -19,7 +19,7 @@
       <option name="XML" value="true" />
     </context>
   </template>
-  <template name="data" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;&#10;&lt;odoo noupdate=&quot;1&quot;&gt;&#10;    &lt;record id=&quot;&quot; model=&quot;&quot;&gt;&#10;        &lt;field name=&quot;&quot;&gt;&lt;/field&gt;&#10;    &lt;/record&gt;&#10;&lt;/odoo&gt;&#10;" description="Data definition" toReformat="false" toShortenFQNames="true">
+  <template name="data" value="&lt;odoo noupdate=&quot;1&quot;&gt;&#10;    &lt;record id=&quot;&quot; model=&quot;&quot;&gt;&#10;        &lt;field name=&quot;&quot;&gt;&lt;/field&gt;&#10;    &lt;/record&gt;&#10;&lt;/odoo&gt;&#10;" description="Data definition" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="XML" value="true" />
     </context>
@@ -29,7 +29,7 @@
       <option name="XML" value="true" />
     </context>
   </template>
-  <template name="empty_xml" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;&#10;&lt;openerp&gt;&#10;    &lt;data&gt;&#10;    &lt;/data&gt;&#10;&lt;/openerp&gt;" description="Empty XML file" toReformat="false" toShortenFQNames="true">
+  <template name="empty_xml" value="&lt;odoo&gt;&#10;&lt;/odoo&gt;" description="Empty XML file" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="XML" value="true" />
     </context>
@@ -75,11 +75,6 @@
     </context>
   </template>
   <template name="security" value="'security/ir.model.access.csv'," description="Add ir.model.access.csv" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="Python" value="true" />
-    </context>
-  </template>
-  <template name="copyright v7" value="# -*- encoding: utf-8 -*-&#10;##############################################################################&#10;#&#10;#    OpenERP, Open Source Management Solution&#10;#    Copyright (C) 2022 DynApps (&lt;http://www.dynapps.be&gt;). All Rights Reserved&#10;#&#10;#    This program is free software: you can redistribute it and/or modify&#10;#    it under the terms of the GNU General Public License as published by&#10;#    the Free Software Foundation, either version 3 of the License, or&#10;#    (at your option) any later version.&#10;#&#10;#    This program is distributed in the hope that it will be useful,&#10;#    but WITHOUT ANY WARRANTY; without even the implied warranty of&#10;#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the&#10;#    GNU General Public License for more details.&#10;#&#10;#    You should have received a copy of the GNU General Public License&#10;#    along with this program.  If not, see &lt;http://www.gnu.org/licenses/&gt;.&#10;#&#10;##############################################################################" description="Odoo Copyright" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="Python" value="true" />
     </context>
