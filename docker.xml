@@ -1,5 +1,0 @@
-<application>
-  <component name="DockerSettings">
-    <option name="dockerMachinePath" value="/snap/bin/docker-machine" />
-  </component>
-</application>
