@@ -5,7 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py,*.xml,*.js,*.csv,*.txt" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -28,7 +28,6 @@
     <mask>*.css</mask>
     <mask>*.po</mask>
     <mask>test*.py</mask>
-    <mask>*.js</mask>
     <mask>main*.py</mask>
     <mask>en*.po</mask>
     <mask>nl*.po</mask>
@@ -36,5 +35,6 @@
     <mask>*.py</mask>
     <mask>*.xml</mask>
     <mask>*.py,*.xml,*.js,*.csv,*.txt</mask>
+    <mask>*.js</mask>
   </component>
 </application>
