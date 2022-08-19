@@ -39,10 +39,10 @@
     <mask>main*.py</mask>
     <mask>en*.po</mask>
     <mask>*.scss</mask>
-    <mask>*.js</mask>
     <mask>*.xml</mask>
     <mask>nl*.po</mask>
     <mask>*.py</mask>
+    <mask>*.js</mask>
     <mask>*.py,*.xml,*.js,*.csv,*.txt</mask>
   </component>
 </application>
