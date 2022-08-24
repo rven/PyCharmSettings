@@ -1,0 +1,32 @@
+<templateSet group="Odoo Test Framework">
+  <template name="method" value="{&#10;  &quot;action&quot;: &quot;method&quot;,&#10;  &quot;name&quot;: &quot;button_confirm&quot;&#10;}" description="Add method" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JSON" value="true" />
+    </context>
+  </template>
+  <template name="enter_data" value="{&#10;  &quot;action&quot;: &quot;enter_data&quot;,&#10;  &quot;fields&quot;: [&#10;    {&#10;      &quot;name&quot;: &quot;Test Sale Order&quot;&#10;    }&#10;  ]&#10;}" description="Enter data" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JSON" value="true" />
+    </context>
+  </template>
+  <template name="verify_data" value="{&#10;  &quot;action&quot;: &quot;verify_data&quot;,&#10;  &quot;data_to_verify&quot;: {&#10;    &quot;xx_master_field&quot;: &quot;MASTER&quot;&#10;  }&#10;}" description="Verify data" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JSON" value="true" />
+    </context>
+  </template>
+  <template name="verify_data_eval" value="{&#10;  &quot;action&quot;: &quot;verify_data&quot;,&#10;  &quot;eval_data&quot;: {&#10;    &quot;len(object.co_contractor_ids.filtered(lambda x: x.approved))&quot;: 2&#10;  }&#10;}" description="Eval data" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JSON" value="true" />
+    </context>
+  </template>
+  <template name="verify_method" value="{&#10;  &quot;action&quot;: &quot;verify_method&quot;,&#10;  &quot;eval_method&quot;: {&#10;    &quot;method_name&quot;: {&#10;      &quot;args&quot;: [&#10;        &quot;value&quot;&#10;      ],&#10;      &quot;keyword_args&quot;: {&#10;        &quot;key&quot;: &quot;value&quot;&#10;      },&#10;      &quot;result&quot;: &quot;result&quot;,&#10;      &quot;exception&quot;: &quot;ValidationError&quot;,&#10;      &quot;message&quot;: &quot;regexp&quot;&#10;    }&#10;  }&#10;}" description="Verify method" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JSON" value="true" />
+    </context>
+  </template>
+  <template name="one2many_field" value="&quot;fields_ids&quot;: {&#10;  &quot;type&quot;: &quot;one2many&quot;,&#10;  &quot;string&quot;: &quot;&quot;,&#10;  &quot;comodel_name&quot;: &quot;&quot;,&#10;  &quot;inverse_name&quot;: &quot;&quot;&#10;}&#10;" description="One2many Field Model definition" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JSON" value="true" />
+    </context>
+  </template>
+</templateSet>

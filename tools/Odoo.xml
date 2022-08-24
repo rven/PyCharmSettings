@@ -1,0 +1,9 @@
+<toolSet name="Odoo">
+  <tool name="pyLintOdoo" description="pyLint for Odoo" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/usr/local/bin/pylint-odoo" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$SourcepathEntry$" />
+    </exec>
+  </tool>
+</toolSet>

@@ -1,0 +1,12 @@
+<templateSet group="Python">
+  <template name="pd" value="# BREAKPOINT: Remove breakpoint before COMMIT!!!!&#10;import pdb;pdb.set_trace()" description="Add python debuuger breakpoint" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="pylint-disable" value="# pylint: disable=" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>
